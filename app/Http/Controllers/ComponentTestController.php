@@ -16,4 +16,6 @@ class ComponentTestController extends Controller
     {
         return view('tests.component-test2');
     }
+
+    
 }
